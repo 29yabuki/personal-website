@@ -1,13 +1,3 @@
-@font-face {
-  font-family: 'Roboto Mono';
-  src: local('Roboto Mono'), url(../src/fonts/RobotoMono-VariableFont_wght.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Rubik';
-  src: local('Rubik'), url(../src/fonts/Rubik-VariableFont_wght.ttf) format('truetype');
-}
-
 :root {
   --background-color: #fff;
   --btn-color: #0987f2;
