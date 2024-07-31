@@ -1,4 +1,4 @@
-import './App.module.css'
+import './App.css'
 import { Hero } from './components/hero/hero';
 import { Skills } from './components/skills/skills'
 import { Projects } from './components/projects/projects';
