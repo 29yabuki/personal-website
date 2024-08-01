@@ -7,6 +7,7 @@ Welcome to my personal website! This site is built using React, it's also my fir
 
 ## Features
 - Built using HTML, CSS, JavaScript, and React.
+- Integrated Google Analytics for monitoring website data.
 
 ## Acknowledgements
 This website wouldn't be possible without the following tutorials:
