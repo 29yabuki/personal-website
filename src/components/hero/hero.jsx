@@ -13,7 +13,7 @@ export const Hero = () => {
           Sean<br />
           Caranzo
         </h1>
-        <h2>CS Major at UP Diliman</h2>
+        <h2>Computer Eng'g Major at UP Diliman</h2>
       </div>
       <span>
         <a href='https://github.com/29yabuki' target='_blank'>

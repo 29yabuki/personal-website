@@ -11,12 +11,17 @@ export const Projects = () => {
         <ProjectCard
             link="https://github.com/29yabuki/Computandi"
             h3="Computandi"
-            p="A calculator app"
+            p="Python and PySimpleGUI"
+        />
+        <ProjectCard
+            link="https://pantry-tracker-pi-neon.vercel.app/"
+            h3="Pantry Tracker"
+            p="NextJS, MUI, and Firebase"
         />
         <ProjectCard
             link="https://github.com/29yabuki/Zenote"
             h3="Zenote"
-            p="A notepad app"
+            p="Python and PySimpleGUI"
         />
       </div>
     </section>

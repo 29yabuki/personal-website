@@ -19,6 +19,10 @@ export const Skills = () => {
       <h2>Web</h2>
       <div className={styles.skillList}>
         <SkillList src={minusIcon} skill="React" />
+        <SkillList src={minusIcon} skill="NextJS" />
+        <SkillList src={minusIcon} skill="Material UI" />
+        <SkillList src={minusIcon} skill="Firebase" />
+
       </div>
       <hr />
       <h2>Data Science and Machine Learning</h2>
