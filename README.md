@@ -2,6 +2,8 @@
 
 Welcome to my personal website! This site is built using React, it's also my first project using said library. Here, you'll find my résumé, projects, and skills (and more to come), all in one place.
 
+You can visit the website [here](https://29yabuki.github.io/personal-website/).
+
 - [Features](#features)
 - [Acknowledgements](#acknowledgements)
 
