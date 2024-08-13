@@ -4,7 +4,7 @@ Welcome to my personal website! This site is built using React, it's also my fir
 
 You can visit the website [here](https://29yabuki.github.io/personal-website/).
 
-- [Features](#features)
+- [Features and Technologies](#features-and-technologies)
 - [Acknowledgements](#acknowledgements)
 
 ## Features and Technologies
