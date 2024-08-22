@@ -16,21 +16,33 @@ export const Skills = () => {
         <SkillList src={minusIcon} skill="Python" />
       </div>
       <hr />
-      <h2>Web</h2>
+      <h2>Front-end</h2>
       <div className={styles.skillList}>
         <SkillList src={minusIcon} skill="React" />
         <SkillList src={minusIcon} skill="NextJS" />
         <SkillList src={minusIcon} skill="Material UI" />
-        <SkillList src={minusIcon} skill="Firebase" />
-
+        <SkillList src={minusIcon} skill="shadcn/ui" />
       </div>
       <hr />
-      <h2>Data Science and Machine Learning</h2>
+      <h2>Back-end</h2>
+      <div className={styles.skillList}>
+        <SkillList src={minusIcon} skill="Firebase" />
+      </div>
+      <hr />
+      <h2>Data Libraries</h2>
       <div className={styles.skillList}>
         <SkillList src={minusIcon} skill="NumPy" />
         <SkillList src={minusIcon} skill="pandas" />
         <SkillList src={minusIcon} skill="Matplotlib" />
         <SkillList src={minusIcon} skill="scikit-learn" />
+      </div>
+      <hr />
+      <h2>Machine Learning</h2>
+      <div className={styles.skillList}>
+        <SkillList src={minusIcon} skill="scikit-learn" />
+        <SkillList src={minusIcon} skill="OpenAI API" />
+        <SkillList src={minusIcon} skill="LangChain" />
+
       </div>
       <hr />
       <h2>Developer Tools</h2>

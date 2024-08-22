@@ -16,12 +16,14 @@
 
 .skillList {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
     align-self: center;
     flex-wrap: wrap;
+    flex-direction: column;
     row-gap: 40px;
     max-width: 26ch;
-    }
+}
   
 hr {
     width: 100px;
@@ -42,7 +44,9 @@ h2 {
 @media (width >= 800px) {
     .skillList {
         margin-top: 15px;
+        justify-content: space-evenly;
         max-width: fit-content;
+        flex-direction: row;
         gap: 30px;
 
         p {
@@ -50,6 +54,7 @@ h2 {
         }
     }
 
+    
     hr {
         width: 300px;
     }
