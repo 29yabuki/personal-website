@@ -14,14 +14,19 @@ export const Projects = () => {
             p="Python and PySimpleGUI"
         />
         <ProjectCard
-            link="https://pantry-tracker-pi-neon.vercel.app/"
-            h3="Pantry Tracker"
-            p="NextJS, MUI, and Firebase"
-        />
-        <ProjectCard
             link="https://github.com/29yabuki/Zenote"
             h3="Zenote"
             p="Python and PySimpleGUI"
+        />
+        <ProjectCard
+            link="https://pantry-tracker-pi-neon.vercel.app/"
+            h3="Pantry Tracker"
+            p="NextJS, MUI, Firebase"
+        />
+        <ProjectCard
+            link="https://poke-asker.vercel.app/"
+            h3="PokéAsker"
+            p="NextJS, shadcn/ui, OpenAI API, LangChain"
         />
       </div>
     </section>
