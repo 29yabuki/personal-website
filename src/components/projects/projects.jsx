@@ -21,7 +21,7 @@ export const Projects = () => {
         <ProjectCard
             link="https://pantry-tracker-pi-neon.vercel.app/"
             h3="Pantry Tracker"
-            p="A CRUD app with authentication using NextJS and Firebase"
+            p="CRUD app with authentication using NextJS and Firebase"
         />
         <ProjectCard
             link="https://poke-asker.vercel.app/"
