@@ -26,8 +26,8 @@ export const Hero = () => {
       <p>
         I turn texts into robust web applications and machine learning models.
       </p>
-      <a href='https://drive.google.com/file/d/1CGBzVAQJsocMX3KuuInD6Th70F1EZJ-l/view?usp=sharing' target='_blank'>
-        <button className='styles.hover'>Résumé</button>
+      <a href='https://drive.google.com/file/d/10r8Es73cim7VMpathlD9_gIm2lnvDzn0/view?usp=sharing' target='_blank'>
+        <button className='styles.hover'>CV</button>
       </a>
     </section>
   );
